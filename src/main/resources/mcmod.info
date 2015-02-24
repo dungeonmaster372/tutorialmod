@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "TutorialMod",
+    "name": "Tutorial Mod",
+    "description": "Learning how to code w/parhimar my first mod!!",
+    "version": "0.0.0.0001",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "pahimar(Through Tutorials), dungeonmaster372 aka: Dunge"
+    ],
+    "credits": "To all my Friends for pushing me to try new things!",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+  }
+]
